@@ -1,0 +1,107 @@
+/*-----contenido-----*/
+
+.content{
+    width: (100% - 250px);
+    margin-top: 70px;
+    margin-left: 250px;
+    transition: 0.5s;
+    height:2900px;
+}
+.mid-content{
+    height:2780px;
+}
+
+.text{
+    width:90%;
+    text-align: justify;
+    margin:10px;
+    margin-left: 20px;
+}
+
+.secciones{
+    display:flex;
+    float:left;
+    width: 96.8%;
+    margin:20px;
+    height: 810px;
+    
+}
+.sub{
+    height:700px;
+    width:50%;
+}
+#cus-con{
+    display:flex;
+    float:left;
+    width: 96.8%;
+    margin:20px;
+    height: 500px;
+
+}
+
+
+#menu{
+    width:300px;
+    margin-left:50px;
+}
+
+#mid-area{
+    display:flex;
+    float:left;
+    width: 96.8%;
+    margin:20px;
+    height: 700px;
+}
+
+#graficas{
+    display:flex;
+    float:left;
+    width: 95%;
+    margin:20px;
+    height: 450px;
+    margin-left:50px;
+}
+
+#sandra_map{
+    height:800px;
+    width:100%;
+    margin-left: 20px;
+}
+
+
+#map{
+    height:530px;
+    width:90%;
+    padding:10px;
+    margin-left: 20px;
+}
+
+#model_HDS{
+    height:530px;
+    width:97%;
+    padding:10px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+
+/*----- pie de pagina ------*/
+#ds4alogo{
+    display:flex;
+    justify-content: center;
+    line-height:30px;
+    margin-bottom: 5px;
+}
+
+.barrapu ul li{
+    float: left;
+    list-style: none;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.barrapu{
+    height:110px;
+    width:100%;
+    background: #AAB7B8;
+}
